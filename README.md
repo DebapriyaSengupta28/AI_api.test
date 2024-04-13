@@ -1,1 +1,3 @@
-# AI_api.test
+# chat-gemini
+
+personal chatAI using gemini
